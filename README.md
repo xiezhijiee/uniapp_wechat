@@ -1,1 +1,1 @@
-# uniapp_wechat
+提取uview的请求出来的
