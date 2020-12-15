@@ -3,7 +3,7 @@
 		onLaunch: function() {
 			console.log('App Launch')
 		},
-		onShow: function() {
+		onShow: function() {//切入后台
 			console.log('App Show')
 		},
 		onHide: function() {

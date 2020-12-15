@@ -1,6 +1,6 @@
 <template>
 	<view class="">
-		死了
+		你好之花
 	</view>
 </template>
 
