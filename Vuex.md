@@ -22,7 +22,7 @@ mutations: {
 
 你可以在组件中使用 `this.$store.commit('xxx')` 提交 mutation，或者使用 `mapMutations` 辅助函数将组件中的 methods 映射为 `store.commit` 调用（需要在根节点注入 `store`）。
 
-```js
+```vue
 import { mapMutations } from 'vuex'
 
 export default {
