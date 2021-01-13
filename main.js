@@ -2,8 +2,8 @@
 import Vue from 'vue'
 import App from './App'
 import X from 'libs/index.js'
-import uView from "uview-ui";
-Vue.use(uView);
+// import uView from "uview-ui";
+// Vue.use(uView);
 Vue.config.productionTip = false
 App.mpType = 'app'
 Vue.use(X)
